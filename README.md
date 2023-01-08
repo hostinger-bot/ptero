@@ -20,12 +20,12 @@ SCRIPT RACIKAN BY kurrxd
 
 Copy Paste Step Per Step
 
-## STEP 1
+## UPDATE & UPGRADE
 ```bash
 sudo apt update -y && sudo apt upgrade -y
 ```
 
-## STEP 2
+## INSTALL PANEL & WINGS
 ```bash
 bash <(curl -s https://raw.githubusercontent.com/KurrXd/ptero/master/install.sh)
 ```
