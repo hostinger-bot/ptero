@@ -1,4 +1,10 @@
-# 🐲 AUTO INSTALL PTERO BY KurrXd
+#    //   / /                         \\ / /              
+#   //__ / /             __      __    \  /      ___   /  
+#  //__  /    //   / / //  ) ) //  ) ) / /     //   ) /   
+# //   \ \   //   / / //      //      / /\\   //   / /    
+#//     \ \ ((___( ( //      //      / /  \\ ((___/ /     
+
+# AUTO INSTALL PTERO
 
 
 SCRIPT RACIKAN BY kurrxd
