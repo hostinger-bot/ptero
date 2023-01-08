@@ -2,10 +2,11 @@ About FIGlet (Frank, Ian & Glenn's Letters) release 2.2.5, 31 May 2012
 --------------------------------------------------------------------------
 FIGlet is a program that creates large characters out of ordinary
 screen characters
- _ _ _          _   _     _       
-| (_) | _____  | |_| |__ (_)___   
-| | | |/ / _ \ | __| '_ \| / __|  
-| | |   <  __/ | |_| | | | \__ \_ 
+_  __             __  __   _ 
+| |/ /   _ _ __ _ _\ \/ /__| |
+| ' / | | | '__| '__\  // _` |
+| . \ |_| | |  | |  /  \ (_| |
+|_|\_\__,_|_|  |_| /_/\_\__,_|
 
 ## Fitur
 
