@@ -109,7 +109,7 @@ while [ "$done" == false ]; do
     output "[$i] ${options[$i]}"
   done
 
-  echo -n "input pilihan : "
+  echo -n "*input pilihan : "
   read -r action
 
   [ -z "$action" ] && error "Input is required" && continue
