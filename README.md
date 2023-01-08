@@ -1,7 +1,15 @@
 
-# AUTO INSTALL PTERO
+AUTO INSTALL PTERO
 
-                                 
+_  __             __  __   _ 
+| |/ /   _ _ __ _ _\ \/ /__| |
+
+| ' / | | | '__| '__\  // _` |
+
+| . \ |_| | |  | |  /  \ (_| |
+
+|_|\_\__,_|_|  |_| /_/\_\__,_|   
+
 
 SCRIPT RACIKAN BY kurrxd
 
