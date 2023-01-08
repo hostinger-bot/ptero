@@ -29,7 +29,10 @@ sudo apt update -y && sudo apt upgrade -y
 ```bash
 bash <(curl -s https://raw.githubusercontent.com/KurrXd/ptero/master/install.sh)
 ```
-
+#
+#
+# OTHER
+#
 ## UNINSTALL
 ```bash
 bash <(curl -s https://raw.githubusercontent.com/KurrXd/ptero/master/uninstall.sh)
