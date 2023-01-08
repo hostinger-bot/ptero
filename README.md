@@ -30,7 +30,7 @@ sudo apt update -y && sudo apt upgrade -y
 bash <(curl -s https://raw.githubusercontent.com/KurrXd/ptero/master/install.sh)
 ```
 
-## TESTING
+## UNISNTALL
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/KurrXd/ptero/master/tess.sh)
+bash <(curl -s https://raw.githubusercontent.com/KurrXd/ptero/master/uninstall.sh)
 ```
