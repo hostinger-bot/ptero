@@ -70,11 +70,11 @@ done=false
 
 output "Pterodactyl installation script @ $SCRIPT_VERSION"
 output
-output "Copyright (C) 2018 - 2022, Vilhelm Prytz, <vilhelm@prytznet.se>"
-output "https://github.com/vilhelmprytz/pterodactyl-installer"
+output "Copyright (C) 2022 - 2023, kurrxd, <kurrxdstore@gmail.com>"
+output "https://github.com//KurrXd/ptero"
 output
-output "Sponsoring/Donations: https://github.com/vilhelmprytz/pterodactyl-installer?sponsor=1"
-output "This script is not associated with the official Pterodactyl Project."
+output "Youtube : https://jokerishere995"
+output "script ini base old ptero buatan kurrxd"
 
 output
 
@@ -88,9 +88,9 @@ WINGS_CANARY="$GITHUB_BASE_URL/master/install-wings.sh"
 
 while [ "$done" == false ]; do
   options=(
-    "Install the panel"
-    "Install Wings"
-    "Install both [0] and [1] on the same machine (wings script runs after panel)\n"
+    "install panel dulu"
+    "lanjut wings"
+    "install dua dua nya\n"
 
     "Install panel with canary version of the script (the versions that lives in master, may be broken!)"
     "Install Wings with canary version of the script (the versions that lives in master, may be broken!)"
