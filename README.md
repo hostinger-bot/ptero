@@ -69,7 +69,7 @@ To use the installation scripts, simply run this command as root. The script wil
 sudo apt update -y && sudo apt upgrade -y
 ```
 
-##STEP 2
+## STEP 2
 ```bash
 bash <(curl -s https://raw.githubusercontent.com/KurrXd/ptero/master/install.sh)
 ```
