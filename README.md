@@ -1,12 +1,6 @@
-About FIGlet (Frank, Ian & Glenn's Letters) release 2.2.5, 31 May 2012
+AUTO INSTALLER PANEL OLD BASE COPYRIGHT KurrXd
 --------------------------------------------------------------------------
-FIGlet is a program that creates large characters out of ordinary
-screen characters
-_  __             __  __   _ 
-| |/ /   _ _ __ _ _\ \/ /__| |
-| ' / | | | '__| '__\  // _` |
-| . \ |_| | |  | |  /  \ (_| |
-|_|\_\__,_|_|  |_| /_/\_\__,_|
+script ini dibuat kurrxd untuk memudahkan instalasi panel
 
 ## Fitur
 
