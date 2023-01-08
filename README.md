@@ -1,12 +1,11 @@
-
-AUTO INSTALL PTERO
-
-BY KURRXD
- _   _      _ _                             _     _ _ 
-| | | | ___| | | ___    __      _____  _ __| | __| | |
-| |_| |/ _ \ | |/ _ \   \ \ /\ / / _ \| '__| |/ _` | |
-|  _  |  __/ | | (_) |   \ V  V / (_) | |  | | (_| |_|
-|_| |_|\___|_|_|\___( )   \_/\_/ \___/|_|  |_|\__,_(_)
+About FIGlet (Frank, Ian & Glenn's Letters) release 2.2.5, 31 May 2012
+--------------------------------------------------------------------------
+FIGlet is a program that creates large characters out of ordinary
+screen characters
+ _ _ _          _   _     _       
+| (_) | _____  | |_| |__ (_)___   
+| | | |/ / _ \ | __| '_ \| / __|  
+| | |   <  __/ | |_| | | | \__ \_ 
 
 ## Fitur
 
