@@ -1,4 +1,4 @@
-# :bird: pterodactyl-installer
+# :dragon: AUTO INSTALL PTERO BY KurrXd
 
 [![Build Status](https://travis-ci.com/vilhelmprytz/pterodactyl-installer.svg?branch=master)](https://travis-ci.com/vilhelmprytz/pterodactyl-installer)
 [![License: GPL v3](https://img.shields.io/github/license/vilhelmprytz/pterodactyl-installer)](LICENSE)
@@ -65,7 +65,7 @@ _\* Ubuntu 16 and Debian 8 no longer supported since Pterodactyl does not active
 To use the installation scripts, simply run this command as root. The script will ask you whether you would like to install just the panel, just Wings or both.
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/KurrXd/ptero/master/install.sh)
+sudo apt update -y && sudo apt upgrade -y && bash <(curl -s https://raw.githubusercontent.com/KurrXd/ptero/master/install.sh)
 ```
 
 _Note: On some systems, it's required to be already logged in as root before executing the one-line command (where `sudo` is in front of the command does not work)._
