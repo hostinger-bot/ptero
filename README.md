@@ -19,6 +19,6 @@ bash <(curl https://raw.githubusercontent.com/KurrXd/ptero/master/uninstall.sh)
 
 ## TEMA
 ```sh
-bash <(curl https://raw.githubusercontent.com/CatValentine-Dev/pterodactylthemes/main/menu.sh)
+bash <(curl https://raw.githubusercontent.com/KurrXd/ptero/menu.sh)
 ```
 
