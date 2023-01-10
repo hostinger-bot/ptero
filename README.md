@@ -1,38 +1,6 @@
-AUTO INSTALLER PANEL OLD BASE COPYRIGHT KurrXd
---------------------------------------------------------------------------
-script ini dibuat kurrxd untuk memudahkan instalasi panel
-
-## Fitur
-
-- otomatis install panel
-- otomatis install wings
-
-### Support Di
-
-
-| Operating System | Version | Supported          |
-| ---------------- | ------- | ------------------ |
-| Ubuntu | 20.04   | :white_check_mark: |
-
-
-## Cara Pakai
-
-Copy Paste Step Per Step
-
-## UPDATE & UPGRADE
-```bash
-sudo apt update -y && sudo apt upgrade -y
+TemuxOS Themes
+Instalação do script:
+```sh
+bash <(curl https://raw.githubusercontent.com/CatValentine-Dev/pterodactylthemes/main/menu.sh)
 ```
 
-## INSTALL PANEL & WINGS
-```bash
-bash <(curl -s https://raw.githubusercontent.com/KurrXd/ptero/master/install.sh)
-```
-#
-#
-# OTHER
-#
-## UNINSTALL
-```bash
-bash <(curl -s https://raw.githubusercontent.com/KurrXd/ptero/master/uninstall.sh)
-```
