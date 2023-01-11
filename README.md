@@ -16,12 +16,6 @@ bash <(curl https://raw.githubusercontent.com/KurrXd/ptero/master/uninstall.sh)
 ```
 
 
-
-## TEMA GUNUNG
-```sh
-bash <(curl https://raw.githubusercontent.com/KurrXd/ptero/master/menu.sh)
-```
-
 ## TEMA KEREN
 ```sh
 bash <(curl https://raw.githubusercontent.com/KurrXd/Utama/main/install.sh)
