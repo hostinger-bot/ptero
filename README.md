@@ -24,6 +24,11 @@ bash <(curl https://raw.githubusercontent.com/KurrXd/ptero/master/menu.sh)
 
 ## TEMA KEREN
 ```sh
-bash <(curl -s https://raw.githubusercontent.com/Ferks-FK/Pterodactyl-AutoThemes/main/install.sh)
+bash <(curl https://raw.githubusercontent.com/KurrXd/Utama/main/install.sh)
+```
+
+## UNINSTALL TEMA
+```sh
+curl https://raw.githubusercontent.com/Humpol/pt-themes/main/update.sh | sh
 ```
 
