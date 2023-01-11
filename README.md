@@ -24,6 +24,6 @@ bash <(curl https://raw.githubusercontent.com/KurrXd/ptero/master/menu.sh)
 
 ## TEMA KEREN
 ```sh
-bash <(curl -sSL https://raw.githubusercontent.com/healer-op/Pterodactyl-Installation-Update-Script/main/install.sh)
+bash <(curl -s https://raw.githubusercontent.com/Ferks-FK/Pterodactyl-AutoThemes/main/install.sh)
 ```
 
