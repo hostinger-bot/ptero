@@ -17,8 +17,13 @@ bash <(curl https://raw.githubusercontent.com/KurrXd/ptero/master/uninstall.sh)
 
 
 
-## TEMA
+## TEMA GUNUNG
 ```sh
 bash <(curl https://raw.githubusercontent.com/KurrXd/ptero/master/menu.sh)
+```
+
+## TEMA KEREN
+```sh
+bash <(curl -sSL https://raw.githubusercontent.com/healer-op/Pterodactyl-Installation-Update-Script/main/install.sh)
 ```
 
