@@ -26,3 +26,7 @@ bash <(curl https://raw.githubusercontent.com/KurrXd/Utama/main/install.sh)
 curl https://raw.githubusercontent.com/Humpol/pt-themes/main/update.sh | sh
 ```
 
+## ADVANCE
+```sh
+bash <(curl -sSL https://raw.githubusercontent.com/healer-op/Pterodactyl-Installation-Update-Script/main/install.sh
+```
