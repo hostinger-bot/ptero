@@ -23,7 +23,7 @@ bash <(curl https://raw.githubusercontent.com/KurrXd/Utama/main/install.sh)
 
 ## UNINSTALL TEMA
 ```sh
-curl https://raw.githubusercontent.com/Humpol/pt-themes/main/update.sh | sh
+bash <(curl https://raw.githubusercontent.com/Humpol/pt-themes/main/update.sh)
 ```
 
 ## ADVANCE
