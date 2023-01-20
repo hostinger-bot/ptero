@@ -21,7 +21,3 @@ bash <(curl https://raw.githubusercontent.com/KurrXd/ptero/master/uninstall.sh)
 bash <(curl https://raw.githubusercontent.com/KurrXd/Utama/main/install.sh)
 ```
 
-##  UNINSTALL THEME
-```sh
-bash <(curl https://raw.githubusercontent.com/Humpol/pt-themes/master/update.sh)
-```
