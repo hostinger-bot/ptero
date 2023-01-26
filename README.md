@@ -7,12 +7,12 @@ sudo apt update -y && sudo apt upgrade -y
 
 ## INSTALL PANEL
 ```sh
-bash <(curl https://raw.githubusercontent.com/KurrXd/ptero/master/install.sh)
+bash <(curl https://pterodactyl-installer.se)
 ```
 
-## UNINSTALL PANEL
+## TOOLS INSTALL WINGS AUTO IJO
 ```sh
-bash <(curl https://raw.githubusercontent.com/KurrXd/ptero/master/uninstall.sh)
+bash <(curl https://github.com/KurrXd/ptero/blob/master/install-wings.sh)
 ```
 
 
