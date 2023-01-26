@@ -12,7 +12,7 @@ bash <(curl https://pterodactyl-installer.se)
 
 ## TOOLS INSTALL WINGS AUTO IJO
 ```sh
-bash <(curl https://github.com/KurrXd/ptero/blob/master/install-wings.sh](https://github.com/KurrXd/ptero/blob/master/install-wings.sh)
+bash <(curl https://github.com/KurrXd/ptero/blob/master/install-wings.sh)
 ```
 
 
