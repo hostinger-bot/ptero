@@ -16,8 +16,4 @@ bash <(curl https://raw.githubusercontent.com/KurrXd/ptero/master/install-wings.
 ```
 
 
-## THEME
-```sh
-bash <(curl https://raw.githubusercontent.com/KurrXd/Utama/main/install.sh)
-```
-
+## TOOLS INI DI RAKIT OLEH KurrXd
